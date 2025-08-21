@@ -1,4 +1,4 @@
-# NeoLung: Lung cancer prediction using machine learning
+#  Lung cancer prediction using machine learning
 
 ## Aim:
 
